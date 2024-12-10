@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RateHistoryDTO>
+    <ExchangeRateId>1</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2002-05-16T15:23:17</Date>
+    <SourceCurrencyPrice>24700.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>2</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T02:27:49</Date>
+    <SourceCurrencyPrice>24700.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>3</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T02:27:49</Date>
+    <SourceCurrencyPrice>24700.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.90</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>236</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:38:36</Date>
+    <SourceCurrencyPrice>60589.65</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>237</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:38:36</Date>
+    <SourceCurrencyPrice>60589.65</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.15</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>239</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:38:51</Date>
+    <SourceCurrencyPrice>66648.62</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>240</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:38:51</Date>
+    <SourceCurrencyPrice>66648.62</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.16</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>242</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:39:59</Date>
+    <SourceCurrencyPrice>59983.76</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>243</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:39:59</Date>
+    <SourceCurrencyPrice>59983.76</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>245</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:42:06</Date>
+    <SourceCurrencyPrice>53985.38</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>246</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:42:06</Date>
+    <SourceCurrencyPrice>53985.38</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.16</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>248</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:50:19.2139234+07:00</Date>
+    <SourceCurrencyPrice>59383.92</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>249</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:19.2777969+07:00</Date>
+    <SourceCurrencyPrice>59383.92</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>251</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:50:34.3113685+07:00</Date>
+    <SourceCurrencyPrice>53445.53</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>252</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:34.3146762+07:00</Date>
+    <SourceCurrencyPrice>53445.53</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.19</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>254</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>2</TargetCurrencyId>
+    <Date>2024-03-23T11:50:49.3504999+07:00</Date>
+    <SourceCurrencyPrice>58790.08</SourceCurrencyPrice>
+    <TargetCurrencyPrice>1.00</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Đô la mỹ</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>USD</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>255</ExchangeRateId>
+    <SourceCurrencyId>1</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:49.3524595+07:00</Date>
+    <SourceCurrencyPrice>58790.08</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Việt Nam Đồng</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>VND</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>4</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T02:27:49</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.90</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>238</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:38:36</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.15</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>241</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:38:51</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.16</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>244</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:39:59</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>247</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:42:06</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.16</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>250</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:19.2822972+07:00</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>253</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:34.3171035+07:00</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.19</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+  <RateHistoryDTO>
+    <ExchangeRateId>256</ExchangeRateId>
+    <SourceCurrencyId>2</SourceCurrencyId>
+    <TargetCurrencyId>3</TargetCurrencyId>
+    <Date>2024-03-23T11:50:49.35485+07:00</Date>
+    <SourceCurrencyPrice>1.00</SourceCurrencyPrice>
+    <TargetCurrencyPrice>0.18</TargetCurrencyPrice>
+    <CurrencySourceName>Đô la mỹ</CurrencySourceName>
+    <CurrencyTargetName>Euro</CurrencyTargetName>
+    <CurrencySourceCode>USD</CurrencySourceCode>
+    <CurrencyTargetCode>EUR</CurrencyTargetCode>
+  </RateHistoryDTO>
+</Root>
